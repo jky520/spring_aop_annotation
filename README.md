@@ -1,0 +1,2 @@
+# spring的AOP基于注解方式
+	该java项目主要是帮助我们快速的掌握springd的aop基于annotation的方式，每一个步骤都说明得很清楚。
